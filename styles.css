@@ -1,0 +1,15 @@
+
+.vulnerable-text{
+    font-size: 10em;
+    text-align: center;
+    font-weight: bolder;
+    margin: 2rem;
+}
+
+.vulnerable-desc{
+    font-size: 2em;
+    text-align: center;
+    font-weight: normal;
+    margin: 2rem;
+}
+
